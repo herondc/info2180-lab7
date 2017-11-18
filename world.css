@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+     left:  200px;
+}
+
+button{
+    color: green;
+}
+
+#controls{
+   background-color: pink;
+   margin-right: 0;
+   width: 600px;
+    
+}
+
+#result{
+    background-color: #1111;
+}
+
+ 
